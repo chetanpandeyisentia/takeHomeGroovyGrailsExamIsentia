@@ -19,6 +19,7 @@ You will be scored on,
 # Intructions
 
 - Please use Groovy, Grails, and MongoDB
+- MongoDB must be hosted in a free server such as mLab or Atlas or any free Site.
 - Candidate should put their test results on a public code repository hosted on Github
 - Once test is completed please share the Github repository URL to hiring team so they can review your work
 - Use any other third party library or package of your choice if needed
